@@ -8,7 +8,9 @@
     <!-- Dynamic Content Area -->
     <?php include 'views/pages/home.php'; ?>
 
-     <?php include 'views/layout/footer.php'; ?>
+        
+
+    <?php include 'views/layout/footer.php'; ?>
 
     <!-- Preloader Start -->
     <div id="preloader-active">
